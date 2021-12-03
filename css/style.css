@@ -114,6 +114,7 @@ a {
 
 .about__content p {
     color: #9c9c9c;
+    text-align: justify;
 }
 
 /* NUMBER */
